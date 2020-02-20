@@ -1,0 +1,64 @@
+PODS:
+  - AFNetworking (3.2.1):
+    - AFNetworking/NSURLSession (= 3.2.1)
+    - AFNetworking/Reachability (= 3.2.1)
+    - AFNetworking/Security (= 3.2.1)
+    - AFNetworking/Serialization (= 3.2.1)
+    - AFNetworking/UIKit (= 3.2.1)
+  - AFNetworking/NSURLSession (3.2.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.2.1)
+  - AFNetworking/Security (3.2.1)
+  - AFNetworking/Serialization (3.2.1)
+  - AFNetworking/UIKit (3.2.1):
+    - AFNetworking/NSURLSession
+  - Masonry (1.1.0)
+  - OCMock (3.5)
+  - ProgressHUD (2.70)
+  - RamblerTyphoonUtils/AssemblyCollector (1.5.0)
+  - RamblerTyphoonUtils/AssemblyTesting (1.5.0)
+  - SDWebImage (5.4.2):
+    - SDWebImage/Core (= 5.4.2)
+  - SDWebImage/Core (5.4.2)
+  - Typhoon (3.4.9):
+    - Typhoon/no-arc (= 3.4.9)
+  - Typhoon/no-arc (3.4.9)
+  - ViperMcFlurry (1.5.2)
+
+DEPENDENCIES:
+  - AFNetworking (~> 3.0)
+  - Masonry
+  - OCMock
+  - ProgressHUD
+  - RamblerTyphoonUtils/AssemblyCollector
+  - RamblerTyphoonUtils/AssemblyTesting
+  - SDWebImage (~> 5.0)
+  - Typhoon (~> 3.4)
+  - ViperMcFlurry
+
+SPEC REPOS:
+  trunk:
+    - AFNetworking
+    - Masonry
+    - OCMock
+    - ProgressHUD
+    - RamblerTyphoonUtils
+    - SDWebImage
+    - Typhoon
+    - ViperMcFlurry
+
+SPEC CHECKSUMS:
+  AFNetworking: b6f891fdfaed196b46c7a83cf209e09697b94057
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  OCMock: 4ab4577fc941af31f4a0398f6e7e230cf21fc72a
+  ProgressHUD: e603e8b8622c47d8818b9fb38b3cfe9d3e7ca421
+  RamblerTyphoonUtils: 08a6b5592e045a490cd4550aa9ea4a581308d482
+  SDWebImage: 4ca2dc4eefae4224bea8f504251cda485a363745
+  Typhoon: dbbbdeb868ac1e11908fc3e17b119a976471f07a
+  ViperMcFlurry: 701bc3ad8d188b1f1e157ec0ddf4e77184de88b5
+
+PODFILE CHECKSUM: 978144b2916fe59d1a31363242db9f51362a376b
+
+COCOAPODS: 1.8.4
